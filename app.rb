@@ -3,7 +3,7 @@ require "sinatra/reloader"
 
 get("/") do
   erb(:homepage)
-  "
+  
 end
 
 
